@@ -2,6 +2,13 @@
 
 Graylog3 docker image with plugins integration
 
+## Plugin list
+
+| Plugin  | Version  | Url  | Description |
+|---------|----------|------|-------------|
+| SSO | 3.1.0  | https://github.com/Graylog2/graylog-plugin-auth-sso  | SSO support for Graylog through trusted HTTP headers set by load balancers or authentication proxies |
+
+
 ## Getting Started
 
 For usage just clone this repo and run `docker-compose`
