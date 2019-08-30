@@ -18,8 +18,6 @@ docker build -t 'graylog' .
 docker-compose up
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## TODO
 
 * add GeoIp as docker container
