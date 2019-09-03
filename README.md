@@ -1,4 +1,4 @@
-# Project Title
+# Graylog 3 docker image
 
 Graylog3 docker image with plugins integration
 
